@@ -26,3 +26,6 @@ contract attack1 {
      selfdestruct(_a); 
     }  
 }
+
+
+lets make any change and save
